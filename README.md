@@ -1,4 +1,4 @@
-mailFetcher.py
+# mailFetcher.py
 Tool from "Programming Python: Powerful Object-Oriented
 Programming 4th Edition", by Mark Lutz.
 
