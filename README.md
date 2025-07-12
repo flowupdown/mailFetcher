@@ -1,6 +1,6 @@
 mailFetcher.py
-mailFetcher tool from "Programming Python:
-Powerful Object-Oriented Programming 4th Edition", by Mark Lutz.
+Tool from "Programming Python: Powerful Object-Oriented
+Programming 4th Edition", by Mark Lutz.
 
 Tool implemented with imaplib module (instead of poplib) that allows
 a client to access mail messages on a server that supports IMAP4
